@@ -18,7 +18,7 @@ bio: Mi area de investigacion incluye topicos relacionados a la Salud Publica.
 
 # Interests to show in About widget
 interests:
-- Medicina
+- Salud Publica
 - Enfermedades infecciosas
 - Estadistica Bayesiana
 - Estadistica inferencial
@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Editor en Jefe
+  - course: Editor en Jefe (Director General) certificado
     institution: Revista Cientifica Ciencia Medica
     year: 2020
   - course: Medico Cirujano
