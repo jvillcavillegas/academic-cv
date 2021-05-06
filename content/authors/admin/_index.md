@@ -70,7 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Soy estudiante de medicina , compagino mi estudios con mi desempeño  en la implementacion y mejora de revistas electronicas de acceso abierto[OPEN JOURNAL SYSTEM 3.4] (https://pkp.sfu.ca/ojs/). y como consultor externo de los servicios de [Crossref](https://www.crossref.org/) (Content Registration, Reference Linking, Cited-by, Crossmark, Similarity Check). Mis intereses y desenvolvimiento  en investigacion incluyen enfermedades infecciosas, enfermedades cronicas no transmisibles, estadistica bayesiana e inferencia causal. Actualmente lideroo soy parte de  grupos de investigacion afines a mi area.
+Soy estudiante de medicina , compagino mi estudios con mi desempeño  en la implementacion y mejora de revistas electronicas de acceso abierto [Open Journal System 3.4](https://pkp.sfu.ca/ojs/) y como consultor externo de los servicios de [Crossref](https://www.crossref.org/) (Content Registration, Reference Linking, Cited-by, Crossmark, Similarity Check). Mis intereses y desenvolvimiento  en investigacion incluyen enfermedades infecciosas, enfermedades cronicas no transmisibles, estadistica bayesiana e inferencia causal. Actualmente lideroo soy parte de  grupos de investigacion afines a mi area.
 
 Me interesa mucho el concepto de la ciencia abierta y el aprendizaje colectivo, en comunidad y accesible para todos. Por este motivo apoyo a comunidades , comites editoriales de revistas cientificas emergentes o nuevas, en latinoamerica, de estudiantes y profesionales.
 
