@@ -31,7 +31,7 @@ education:
   - course: Editor en Jefe
     institution: Revista Cientifica Ciencia Medica
     year: 2020
-  - course: Estudiante de Medicina
+  - course: Medico Cirujano
     institution: Universidad Mayor de San Simon
     year: 2015-2021
 
