@@ -1,57 +1,57 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Jose Luis Villca Villegas
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Medical Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidad Mayor de San Simon
+  url: http://www.umss.edu.bo/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mi area de investigacion incluye topicos relacionados a la Salud Publica.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Medicina
+- Enfermedades infecciosas
+- Estadistica Bayesiana
+- Estadistica inferencial
+- Lenguaje R
+- Desarrollo Sistema de revistas electronicas abiertas (OJS)
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Editor en Jefe
+    institution: Revista Cientifica Ciencia Medica
+    year: 2020
+  - course: Estudiante de Medicina
+    institution: Universidad Mayor de San Simon
+    year: 2015-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:jvillcavillegas@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/villca_villegas
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jvillcavillegas
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
