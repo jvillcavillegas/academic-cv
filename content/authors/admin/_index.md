@@ -6,7 +6,7 @@ title: Jose Luis Villca Villegas
 superuser: true
 
 # Role/position/tagline
-role: Medical Student
+role: Estudiante de Medicina
 
 # Organizations/Affiliations to show in About widget
 organizations:
