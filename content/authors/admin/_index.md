@@ -70,8 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Soy estudiante de medicina , compagino mi estudios con mi desempeño  en la implementacion y mejora de revistas electronicas de acceso abierto (Open Journal System 3.4) y como consultor externo de los servicios de crossref (Content Registration, Reference Linking, Cited-by, Crossmark, Similarity Check). Mis intereses y desenvolvimiento  en investigacion incluyen enfermedades infecciosas, enfermedades cronicas no transmisibles, estadistica bayesiana e inferencia causal. Actualmente lideroo soy parte de  grupos de investigacion afines a mi area.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Me interesa mucho el concepto de la ciencia abierta y el aprendizaje colectivo, en comunidad y accesible para todos. Por este motivo apoyo a comunidades , comites editoriales de revistas cientificas emergentes o nuevas, en latinoamerica, de estudiantes y profesionales.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Manteniendo siempre mi corazon con mi hogar en Cochabamba, Bolivia
+
+{{< icon name="download" pack="fas" >}} Descargar mi {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae {{< /staticref >}}.
