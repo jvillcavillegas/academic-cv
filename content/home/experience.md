@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiencia
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Editor en jefe
+    company: Revista Cientifica Ciencia Medica
+    company_url: http://rccm-umss.com/index.php/revistacientificacienciamedica
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Cochabamba, Bolivia
+    date_start: '2020-01-01'
+    date_end: '2021-01-01'
     description: |2-
-        Responsibilities include:
+        Las responsabilidades incluyeron:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Guiar el trabajo del flujo del comite editorial
+        * Dirigir y hacer cumplir las normativas editoriales
+        * Añadir la revista en repositorios internacionales (DOAJ, REDIB, DIALNET, MIAR, REDALYC)
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Director del comite de capacitacion continua
+    company: Revista Cientifica Ciencia Medica
+    company_url: http://rccm-umss.com/index.php/revistacientificacienciamedica
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Cochabamba, Bolivia
+    date_start: '2019-01-01'
+    date_end: '2019-12-31'
+    description: Enseñar los principios de investigacion en ciencias de la salud y programas estadisticos.
 
 design:
   columns: '2'
