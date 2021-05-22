@@ -25,7 +25,7 @@ experience:
   - title: Editor en jefe
     company: Revista Cientifica Ciencia Medica
     company_url: http://rccm-umss.com/index.php/revistacientificacienciamedica
-    company_logo: org-gc
+    company_logo: org-x
     location: Cochabamba, Bolivia
     date_start: '2020-01-01'
     date_end: '2021-01-01'
@@ -35,6 +35,19 @@ experience:
         * Guiar el trabajo del flujo del comite editorial
         * Dirigir y hacer cumplir las normativas editoriales
         * Añadir la revista en repositorios internacionales (DOAJ, REDIB, DIALNET, MIAR, REDALYC)
+  - title: Auxiliar administrativo
+    company: Gaceta Medica Boliviana
+    company_url: http://www.gacetamedicaboliviana.com/index.php/gmb/index
+    company_logo: org-x
+    location: Cochabamba, Bolivia
+    date_start: '2020-01-01'
+    date_end: '2021-01-01'
+    description: |2-
+        Las responsabilidades incluyeron:
+        
+        * Ser soporte de los aspectos tecnicos de la revista (metadata crossref, metadata DOAJ, metadata pkp)
+        * Ayudar en la actualizacion de la revista en actuales y nuevas indexaciones (SCOPUS, REDIB,DIALNET, AMELICA, DOAJ)
+        * Construir e implementar metricas, de visualizacion , referencias, estadisticas, subida de version del OJS para la revista
         
   - title: Director del comite de capacitacion continua
     company: Revista Cientifica Ciencia Medica
