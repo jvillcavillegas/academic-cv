@@ -33,7 +33,7 @@ education:
     year: 2020
   - course: Medico Cirujano
     institution: Universidad Mayor de San Simon
-    year: 2015-2021
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
