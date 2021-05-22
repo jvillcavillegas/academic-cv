@@ -75,5 +75,3 @@ Soy estudiante de medicina , compagino mi estudios con mi desempeño  en la impl
 Me interesa mucho el concepto de la ciencia abierta y el aprendizaje colectivo, en comunidad y accesible para todos. Por este motivo apoyo a comunidades , comites editoriales de revistas cientificas emergentes o nuevas, en latinoamerica, de estudiantes y profesionales.
 
 Manteniendo siempre mi corazon con mi hogar en Cochabamba, Bolivia
-
-{{< icon name="download" pack="fas" >}} Descargar mi {{< staticref "media/demo_resume.pdf" "newtab" >}}curriculum vitae {{< /staticref >}}.
