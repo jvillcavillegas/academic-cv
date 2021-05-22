@@ -10,12 +10,12 @@ headless: true
 weight: 40
 
 title: Experiencias
-subtitle: Experience
+subtitle: 
+
 Experiencias:
   - title: Editor en Jefe 
     company: Revista Cientifica Ciencia Medica
     company_url: https://rccm-umss.com/index.php/revistacientificacienciamedica
-    company_logo: org-rccm
     location: Cochabamba, Bolivia
     date_start: '2020-01-01'
     date_end: '2021-01-01'
@@ -31,7 +31,6 @@ Experiencias:
   - title: Auxiliar administrativo
     company: Gaceta Medica Boliviana
     company_url: http://www.gacetamedicaboliviana.com/index.php/gmb/index
-    company_logo: org-gmb
     location: Cochabamba, Bolivia
     date_start: '2020-01-01'
     date_end: '2021-01-01'
