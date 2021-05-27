@@ -72,6 +72,6 @@ highlight_name: false
 
 Soy estudiante de medicina , compagino mi estudios con mi desempeño  en la implementacion y mejora de revistas electronicas de acceso abierto [Open Journal System 3.4](https://pkp.sfu.ca/ojs/) y como consultor externo de los servicios de [Crossref](https://www.crossref.org/) (Content Registration, Reference Linking, Cited-by, Crossmark, Similarity Check). Mis intereses y desenvolvimiento  en investigacion incluyen enfermedades infecciosas, enfermedades cronicas no transmisibles, estadistica bayesiana e inferencia causal. Actualmente lidero y soy parte de grupos de investigacion afines a mi area.
 
-Me interesa mucho el concepto de la ciencia abierta y el aprendizaje colectivo, en comunidad y accesible para todos. Por este motivo apoyo a comunidades , comites editoriales de revistas cientificas emergentes o nuevas, en latinoamerica, de estudiantes y profesionales.
+Me interesa mucho el concepto del "OPEN ACCESS" y el aprendizaje en comunidad. Por este motivo apoyo a semilleros, comites editoriales de revistas cientificas emergentes o nuevas, en latinoamerica, de estudiantes y profesionales.
 
-Manteniendo siempre mi corazon con mi hogar en Cochabamba, Bolivia
+Manteniendo siempre mi corazon y mi mente con mi hogar en Cochabamba, Bolivia
